@@ -11,7 +11,7 @@ import re
 import os
 import matplotlib.pyplot as plt
 
-filepath = r'K:\space\SPA4342000 - CCN01 Lubricated slipring feasibility assessment for MetOp 2G\T-Testing\Test_15\Speed_Ramp'
+filepath = 
 Test_ID = 'Test_ID_15_speed_ramp'
 p=re.compile(Test_ID + '\s\d{4}_\d{2}_\d{2}\s\d{2}_\d{2}_\d{2} mean \(5 Hz\) 0\.lvm')
 df=pd.DataFrame()
